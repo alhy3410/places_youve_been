@@ -1,0 +1,12 @@
+#show-traveler{
+  display: none;
+}
+
+.traveler{
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.traveler:hover{
+  text-decoration: underline;
+}
